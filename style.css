@@ -1,0 +1,69 @@
+.background-img{
+  background: url("https://images.pottermore.com/bxd3o8b291gf/198KMNxM5WKCaCG6K8WMS6/833c686cc936c72e0c3e1a4119bb975b/jim_kay_harry.jpg?w=320&h=320&fit=thumb&f=left&q=85") no-repeat center fixed;
+  background-size: cover;
+  height: auto;
+}
+
+.ui.topmenu.menu{
+  background: transparent;
+  border:none;
+  box-shadow: none;
+
+}
+
+.ui.secondary.menu{
+  background: transparent;
+  border:white;
+  box-shadow: none;
+}
+
+.ui.centered.grid.container.text{
+  padding: 50px 50px 50px 50px;
+}
+
+.ui.grid.centered.compact.container{
+  padding-top:200px;
+  padding-bottom:35px;
+}
+
+.grey-background{
+  background-color: #333;
+}
+
+.robotofont{
+  font-family: roboto;
+  padding: 5px;
+}
+.ui.centered.grid.container.grey{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+p{
+  font-family: lora;
+  color: white;
+}
+
+.iwhite{
+  color:white;
+}
+
+.largetext{
+  font-size: 35px;
+}
+
+.smalltext{
+  font-size:x-small;
+}
+
+.ui.centered.grid.container.icon{
+  margin: 10px;
+  padding-bottom: 20px;
+}
+
+.ui.centered.grid.container.bottom{
+  padding-top: 20px;
+}
+
+#seal{
+  padding: 20px;
+}
